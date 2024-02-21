@@ -33,12 +33,17 @@
 ## Projects
 
 ### Healthcare
+<img src="/assets/img/healthcare.jpg" width="1000" height="400">
+
 - **Comparative Analysis of Machine Learning Models in Breast Cancer Detection**: Developed a model to improve accuracy in breast cancer detection using Python and machine learning techniques.
 - **Early Stage Diabetes**:Developed a model to improve accuracy in Early Stage Diabetes detection using Python and machine learning techniques.
 - **Thyroid Cancer Recurrence**: Developed a model to improve accuracy in Thyroid Cancer Recurrence detection using Python and machine learning techniques.
 - **Mental Disorders Classification**: Developed a comprehensive model aimed at classifying various mental disorders based on patient symptoms and historical data.
 
 ### Marketing
+<img src="/assets/img/marketing.jpg" width="1000" height="400">
+
+
 - **Certificates**: Customer Marketing Campaigns(DataCamp), Analyzing Social Media Data in Python(DataCamp), Market Basket Analysis in Python(DataCamp), Machine Learning for Marketing(DataCamp)
 - **Customer Attrition Analysis for Credit Card Portfolio (Term Project)**: Aimed to identify patterns and predict customer churn through the analysis of customer data using SQL and Python. This project focused on extracting insights to formulate strategies for reducing attrition rates effectively.
 - **Market Basket Analysis**: Focused on understanding customer purchasing patterns and enhancing sales strategies by implementing an algorithm. This project highlighted the importance of data-driven decision-making in optimizing marketing efforts.
@@ -55,5 +60,8 @@
 
 ### Others
 - **Audio Classification via Enhanced KNN Model (Final Project for Master's Machine Learning Course)**: Aimed to profile urban sounds accurately by employing Librosa for intricate audio feature extraction. Developed a custom-built parser for automated audio file processing, enhancing consistency. Engineered and assessed various machine learning
+
+
+
 
 
