@@ -1,5 +1,5 @@
 # Bahadir Bagci - Data Scientist
-
+- [Marketing](#marketing)
 ## Technical Skills
 - Data Analysis & Statistical Modeling, Machine Learning & Predictive Analytics
 - __Programming:__ Python, SQL
