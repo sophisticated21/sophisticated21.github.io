@@ -51,7 +51,7 @@
 <img src="/assets/img/marketing.jpg" width="1000" height="400">
 
 
-- **Certificates**: Customer Marketing Campaigns(DataCamp), Analyzing Social Media Data in Python(DataCamp), Market Basket Analysis in Python(DataCamp), Machine Learning for Marketing(DataCamp)
+- **Certificates**: [Customer Marketing Campaigns(DataCamp)](assets/img/Certificate(AnalyzingMarketingCampaigns).png), [Analyzing Social Media Data in Python(DataCamp)](assets/img/Certificate(AnalyzingSocialMediaData).png), [Market Basket Analysis in Python(DataCamp)](Certificate(MarketBasketAnalysisInPython).png), Machine Learning for Marketing(DataCamp)
 - **Customer Attrition Analysis for Credit Card Portfolio (Term Project):** I aimed to identify patterns and predict customer churn by analyzing customer data using SQL and Python. My focus was on extracting insights to formulate effective strategies for reducing attrition rates.
 - **Market Basket Analysis:** I concentrated on understanding customer purchasing patterns to enhance sales strategies by implementing an algorithm. This project underscored the importance of data-driven decision-making in optimizing marketing efforts.
 - **Customer Segmentation:** My goal was to refine marketing strategies and boost sales through data-driven insights. I transformed extensive sales data into actionable information by employing customer segmentation. Using the K-means clustering technique, I identified distinct customer groups, enabling more targeted and effective marketing efforts. This initiative highlights the power of data analytics in segmenting customers to improve marketing approaches and drive sales growth.
