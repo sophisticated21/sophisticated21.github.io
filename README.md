@@ -1,5 +1,11 @@
 # Bahadir Bagci - Data Scientist
-- [Marketing](#marketing)
+
+## Quick Navigation
+- [Healthcare Portfolio and Achievements](#healthcare)
+- [Marketing Portfolio and Achievements](#marketing)
+- [Environmental Sustainability Portfolio and Achievements](#environmental-sustainability)
+- [Image Processing Portfolio and Achievements](#convolutional-neural-networks)
+  
 ## Technical Skills
 - Data Analysis & Statistical Modeling, Machine Learning & Predictive Analytics
 - __Programming:__ Python, SQL
