@@ -13,6 +13,7 @@
 
 ## Education
 - [**M.Sc. in Data Science**](assets/img/Diploma(UE)(BahadirBagci)(eng).png)
+
   University of Europe for Applied Sciences, Berlin, Germany  
   Graduated: 2023
 
