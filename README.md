@@ -63,7 +63,7 @@
 - **Fuel Consumption and Emission Analysis**: I focused on dissecting 2022 model year vehicle data, scrutinizing engine specifications, fuel consumption, and CO2 emissions. The core of this project was to uncover pivotal factors influencing vehicle emissions and efficiency, steering towards insights for sustainable vehicle design and usage. I leveraged Python for meticulous data processing and analysis, complemented by advanced visualization in PowerBI, to reveal critical patterns and relationships that could inform strategies for reducing vehicular environmental impacts.
 
 ### Convolutional Neural Networks 
-- **Certificates**: Convolutional Neural Networks(DeepLearning.AI), Machine Learning with Python-From Linear Models to Deep Learning(MIT)
+- **Certificates**: [**Convolutional Neural Networks(DeepLearning.AI)**](, Machine Learning with Python-From Linear Models to Deep Learning(MIT)
 - **Signature Verification via CNN-Based Image Classification (Thesis Project)**: I utilized Convolutional Neural Networks to differentiate between authentic and forged signatures, with a focus on medical documents.
 
 ### Others
