@@ -27,7 +27,7 @@
   Dokuz Eylul University, Izmir, Turkey  
   Graduated: 2023
 
-- **B.A. in Law**  
+- **B.A. in Law**(assets/img/Diploma-Bachelor.png)  
   Ankara University, Ankara, Turkey  
   Graduated: 2018
 
