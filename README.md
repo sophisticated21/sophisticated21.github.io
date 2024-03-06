@@ -23,7 +23,7 @@
   University of Europe for Applied Sciences, Berlin, Germany  
   Graduated: 2023
 
-- **M.Sc. in Medical Law**  
+- [**M.Sc. in Medical Law**](assets/img/LLM-Transcript.png)  
   Dokuz Eylul University, Izmir, Turkey  
   Graduated: 2023
 
