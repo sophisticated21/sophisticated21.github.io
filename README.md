@@ -25,7 +25,7 @@
 
 - [**M.Sc. in Medical Law**](assets/img/LLM-Transcript.png)  
   Dokuz Eylul University, Izmir, Turkey  
-  Graduated: 2023
+  Graduated: 2022
 
 - [**B.A. in Law**](assets/img/Diploma-Bachelor.png)  
   Ankara University, Ankara, Turkey  
