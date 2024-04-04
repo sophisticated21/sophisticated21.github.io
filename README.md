@@ -68,7 +68,7 @@
 - **Signature Verification via CNN-Based Image Classification (Thesis Project)**: I utilized Convolutional Neural Networks to differentiate between authentic and forged signatures, with a focus on medical documents.
 
 ### Finance
-- **Certificates**: [**Introduction to Python for Finance(DataCamp)**](assets/img/IntroductioToPythonForFinance.png), [**Intermediate Python For Finance(DataCamp)**](assets/img/IntermediatePythonForFinance.png), [**Introduction to Financial Concepts in Python**](assets/img/Certificate(FinancialConceptsInPython).png)
+- **Certificates**: [**Introduction to Python for Finance(DataCamp)**](assets/img/IntroductionToPythonForFinance.png), [**Intermediate Python For Finance(DataCamp)**](assets/img/IntermediatePythonForFinance.png), [**Introduction to Financial Concepts in Python**](assets/img/Certificate(FinancialConceptsInPython).png)
 
 
 ### Others
