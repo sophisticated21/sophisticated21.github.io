@@ -67,6 +67,10 @@
 - **Certificates**: [**Convolutional Neural Networks(DeepLearning.AI)**](assets/img/Certificate(ConvolutionalNeuralNetworks).png), [**Machine Learning with Python-From Linear Models to Deep Learning(MIT)**](assets/img/MIT(MachineLearning).png)
 - **Signature Verification via CNN-Based Image Classification (Thesis Project)**: I utilized Convolutional Neural Networks to differentiate between authentic and forged signatures, with a focus on medical documents.
 
+### Finance
+- **Certificates**: [**Introduction to Python for Finance(DataCamp)**](assets/img/Certificate(ConvolutionalNeuralNetworks).png), [**Intermediate Python For Finance(DataCamp)**](assets/img/MIT(MachineLearning).png), [**Introduction to Financial Concepts in Python**]
+
+
 ### Others
 - **Audio Classification via Enhanced KNN Model (Final Project for Master's Machine Learning Course)**: I aimed to profile urban sounds accurately by employing Librosa for intricate audio feature extraction. Also I developed a custom-built parser for automated audio file processing, enhancing consistency. Finally I engineered a KNN model
 
